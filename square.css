@@ -1,0 +1,15 @@
+.btn{
+width: 100px;
+height: 100px;
+background-color: blue;
+transform: translate(-50%, -50%);
+position: absolute;
+top: 50%;
+left: 50%;
+
+
+}
+.btn:hover {
+    background-color: red;
+}
+
